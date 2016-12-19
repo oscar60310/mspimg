@@ -1,0 +1,26 @@
+{
+  "name": "mspimg",
+  "version": "1.0.0",
+  "description": "msp image server for xamarin demo",
+  "main": "app.jg",
+  "dependencies": {
+    "azure-storage": "^1.4.0",
+    "express": "^4.14.0",
+    "http": "^0.0.0",
+    "shortid": "^2.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscar60310/mspimg.git"
+  },
+  "author": "goofy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscar60310/mspimg/issues"
+  },
+  "homepage": "https://github.com/oscar60310/mspimg#readme"
+}
